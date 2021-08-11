@@ -1,7 +1,10 @@
 AVALIAÇÃO EM DESAPROPRIAÇÕES ![image](https://user-images.githubusercontent.com/19751082/128951836-b26effc0-8d35-4d3b-bb66-60edbb508e66.png)
 
-Necessidade pública ou Utilidade pública: O Decreto-Lei número 3.365, de
-21 de junho de 1941, elenca os casos de utilidade pública, a saber
+
+
+Necessidade pública ou Utilidade pública: O Decreto-Lei número 3.365, de 21 de junho de 1941, elenca os casos de utilidade pública, a saber
+
+
 
 a) a segurança nacional;
 
